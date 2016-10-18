@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Mastermind</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Mastermind</label>
+			<showfiles>true</showfiles>
+			<folderitem>
+				<path>Mastermind</path>
+			</folderitem>
+			<folderitem>
+				<path>Alex_Leduc_prog1</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Mastermind\Mastermind.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Mastermind\GameBoard.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

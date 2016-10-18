@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Mastermind</label>
+	</settings>
+	<users>
+		<user>
+			<path>Mastermind.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Mastermind.jcp</path>
+		</project>
+	</projects>
+</workspace>
